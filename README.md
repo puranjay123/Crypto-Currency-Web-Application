@@ -1,6 +1,6 @@
 # Crypto-Currency-Web-Application
 # Streamlit-Cryptocurrencies-Dashboard
-About Streamlit Dashboard returning technical indicators for a given crypto (yfinance/ta).
+About Streamlit Dashboard returning technical indicators for a given crypto (using coin market cap API).
 
 ##### Running: `streamlit run crypto.py`
 ![](https://github.com/poltys/Streamlit-Cryptocurrencies-Dashboard/blob/master/extra/streamlit-crypto-2020-08-31-17-08-89.gif)
@@ -11,7 +11,7 @@ About Streamlit Dashboard returning technical indicators for a given crypto (yfi
     - however some ticker do not provide result
     - and first summary table is not updating
     - alternative source to be identified
-- [X] Add user inputs(https://github.com/poltys/Streamlit-Dashboard-Ticker_Technical_Analysis)
+- [X] Add issues here([https://github.com/poltys/Streamlit-Dashboard-Ticker_Technical_Analysis](https://github.com/puranjay123/Crypto-Currency-Web-Application/issues))
   - [X] Buying Price
   - [ ] Add shapes(i.e. means)
   - [X] Create button to upload portfolio details and define global buying price / weighted av.
