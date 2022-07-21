@@ -27,4 +27,4 @@ About Streamlit Dashboard returning technical indicators for a given crypto (usi
 - [X] Add technical indicators
 - [X] Add already trained ML predictive model - google colab
   - [ ] Allow user to use the model
-- [ ] Deploy on streamlit cloud
+- [X] Deploy on streamlit cloud
